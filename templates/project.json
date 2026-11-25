@@ -1,0 +1,78 @@
+{
+  "slug": "{{SLUG}}",
+  "created_at": "{{DATE}}",
+  "platforms": ["tiktok", "reels", "shorts"],
+  "language": "es",
+  "voice": "{{VOICE}}",
+  "rate": "{{RATE}}",
+  "pitch": "{{PITCH}}",
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "music": "",
+  "music_volume": 0.12,
+  "style": {
+    "font": "Arial Black",
+    "caption_size": 76,
+    "caption_color": "&H00FFFFFF",
+    "highlight_color": "&H0000D7FF",
+    "margin_v": 300
+  },
+  "scenes": [
+    {
+      "id": "01",
+      "caption": "NADIE TE DICE ESTO",
+      "kicker": "",
+      "voiceover": "Nadie te dice esto sobre productividad.",
+      "image_prompt": "close-up of a young professional thinking at a desk, warm cinematic light, shallow depth of field",
+      "image_path": "",
+      "video_path": "",
+      "motion": "zoom-in",
+      "seed": 101
+    },
+    {
+      "id": "02",
+      "caption": "NO ES EL TIEMPO",
+      "kicker": "",
+      "voiceover": "El problema no es la falta de tiempo.",
+      "image_prompt": "messy desk with clock and notebooks, dramatic side light, vertical composition",
+      "image_path": "",
+      "video_path": "",
+      "motion": "zoom-out",
+      "seed": 102
+    },
+    {
+      "id": "03",
+      "caption": "DECIDES CANSADO",
+      "kicker": "",
+      "voiceover": "Es que decides todo cuando ya estas cansado.",
+      "image_prompt": "person exhausted at night in front of a laptop, blue screen light, cinematic",
+      "image_path": "",
+      "video_path": "",
+      "motion": "zoom-in",
+      "seed": 103
+    },
+    {
+      "id": "04",
+      "caption": "3 TAREAS, NADA MAS",
+      "kicker": "",
+      "voiceover": "Decide la noche anterior. Tres tareas. Nada mas.",
+      "image_prompt": "clean notebook with three handwritten priorities, morning light, minimalist desk",
+      "image_path": "",
+      "video_path": "",
+      "motion": "zoom-out",
+      "seed": 104
+    },
+    {
+      "id": "05",
+      "caption": "PARTE 2",
+      "kicker": "",
+      "voiceover": "Sigueme para la parte dos.",
+      "image_prompt": "confident person walking in a bright modern office, back view, cinematic vertical",
+      "image_path": "",
+      "video_path": "",
+      "motion": "zoom-in",
+      "seed": 105
+    }
+  ]
+}
